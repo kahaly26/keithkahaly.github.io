@@ -1,0 +1,17 @@
+body{
+background:tan;
+color:white;
+font-size:20pt;
+font-family: 'fantasy';
+}
+
+H1 {font-size: 250%;
+ font-weight: bold
+ color: white
+}
+
+nav a{	display: inline-block;
+border: 2px pink;
+padding: 10px;
+margin: 5px;
+background: black;}
